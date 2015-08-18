@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+/**
+ * Created by Dynastymasra
+ * Name     : Dimas Ragil T
+ * Email    : dynastymasra@gmail.com
+ * LinkedIn : http://www.linkedin.com/in/dynastymasra
+ * Mobile and Backend Developer
+ */
 type Operator func(int, int) int
 
 func operation(numOne, numTwo int, operator Operator) int {

@@ -8,6 +8,13 @@ import (
   "os"
 )
 
+/**
+ * Created by Dynastymasra
+ * Name     : Dimas Ragil T
+ * Email    : dynastymasra@gmail.com
+ * LinkedIn : http://www.linkedin.com/in/dynastymasra
+ * Mobile and Backend Developer
+ */
 var (
   logger *log.Logger
   trace io.Writer
